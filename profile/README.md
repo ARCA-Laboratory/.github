@@ -1,4 +1,4 @@
-# ARCA-Laboratory at Ariel University's School of Architecture and Construction
+# ARCA Lab at Ariel University's School of Architecture
 
 ![Architecture Icon](URL_TO_ARCHITECTURE_ICON) ![Robotics Icon](URL_TO_ROBOTICS_ICON) ![Automation Icon](URL_TO_AUTOMATION_ICON)
 
