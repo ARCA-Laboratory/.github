@@ -4,7 +4,7 @@
 
 ## 🌟 Mission
 
-Dedicated to advancing the **intersection of architecture, robotics, and construction automation**, ARCA-Laboratory is at the forefront of exploring and innovating within the realm of architectural design and construction processes. Leveraging **robotics** and **automation technologies**, we aim to enhance the efficiency, sustainability, and creativity of architectural practices and construction operations.
+Dedicated to advancing the **intersection of architecture, robotics, and construction automation**, the Architectural Robotics and Construction Automation Lab is at the forefront of exploring and innovating within the realm of architectural design and construction processes. Leveraging **robotics** and **automation technologies**, we aim to enhance the efficiency, sustainability, and creativity of architectural practices and construction operations.
 
 ## 🚀 Our Vision
 
