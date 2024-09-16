@@ -1,5 +1,7 @@
 # ARCA Lab at Ariel University's School of Architecture
 
+![ARCA Lab Image](https://github.com/ARCA-Laboratory/.github/blob/main/ARCA%20Lab.jpg)
+
 ## 🌟 Mission
 
 Dedicated to advancing the **intersection of architecture, robotics, and construction automation**, ARCA Lab is at the forefront of exploring and innovating within the realm of architectural design and construction processes. Leveraging **robotics** and **automation technologies**, we aim to enhance the efficiency, sustainability, and creativity of architectural practices and construction operations.
